@@ -1,61 +1,95 @@
-<h1 align="center">
-  Hi 👋 I'm Amina
-</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer • React • TypeScript • Next.js
-</h3>
+# 🌸 Hi, I'm Amina
 
-<p align="center">
-Building modern, responsive and interactive web experiences.
-</p>
-<p align="center">
+### Frontend Developer • React • TypeScript • Next.js
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;UI%2FUX+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+Building clean, modern, and delightful web experiences ✨
 
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=2500&color=F6A6C9&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Enthusiast;UI%2FUX+Lover;Always+Learning+Something+New+%F0%9F%8C%B8" />
 
-## 👩‍💻 About Me
-
-- 💻 Frontend Developer
-- ⚛️ React & TypeScript
-- 🚀 Learning Next.js
-  <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,git,github,vscode,figma" />
-
-</p>
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
-
-</p>
-## 📫 Connect With Me
-
-- GitHub
-- LinkedIn
-- Portfolio (Coming Soon)
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
-- 🎨 Passionate about UI/UX
-- ✨ Love creating reusable components
-- 🌱 Always improving my frontend skills
+## 🌷 About Me
+
+🌸 Passionate about building beautiful and responsive web applications
+
+💗 I enjoy turning UI/UX designs into reusable components
+
+✨ Currently exploring modern frontend architecture with Next.js
+
+🎀 Always learning and improving every day
+
+☕ Music, coffee, and clean code make the perfect coding session
+
+---
+
+## 🩷 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github,vscode,figma&perline=6"/>
+
+</p>
+
+---
+
+## 🌼 Featured Projects
+
+### 🎵 YouTube Music Clone
+
+A responsive music streaming interface inspired by YouTube Music with smooth animations and reusable components.
+
+### 🏡 Real Estate Platform
+
+A modern property marketplace featuring responsive layouts, authentication, property details, and clean UI.
+
+### 🛍️ SkullPanda Store
+
+An e-commerce frontend focused on reusable components, responsive design, and user experience.
+
+---
+
+## 🌸 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=rose-pine&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌺 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-F6A6C9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💗 Thanks for visiting my profile!
+
+*"Keep learning, keep creating, and enjoy the journey."* 🌸
+
+</div>
