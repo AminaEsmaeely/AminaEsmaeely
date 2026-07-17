@@ -36,22 +36,6 @@ Building clean, modern, and delightful web experiences ✨
 
 ---
 
-## 🌼 Featured Projects
-
-### 🎵 YouTube Music Clone
-
-A responsive music streaming interface inspired by YouTube Music with smooth animations and reusable components.
-
-### 🏡 Real Estate Platform
-
-A modern property marketplace featuring responsive layouts, authentication, property details, and clean UI.
-
-### 🛍️ SkullPanda Store
-
-An e-commerce frontend focused on reusable components, responsive design, and user experience.
-
----
-
 ## 🌸 GitHub Stats
 
 <p align="center">
