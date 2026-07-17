@@ -1,58 +1,61 @@
-<h2>
-  Hi, I'm Bahar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
-</h2>
-<br/>
+<h1 align="center">
+  Hi 👋 I'm Amina
+</h1>
+
 <h3 align="center">
-Frontend Developer | React • Next.js • TypeScript
+Frontend Developer • React • TypeScript • Next.js
 </h3>
+
 <p align="center">
-Frontend Developer building modern web apps with React & Next.js  
+Building modern, responsive and interactive web experiences.
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;UI%2FUX+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 </p>
-<br/>
 
-- 🔭 I'm currently working on **Modern web applications with React & Next.js**
-- 🌱 I'm currently learning **Advanced Frontend Development, Software Architecture & Performance Optimization**
-- 👯 I'm looking to collaborate on **Open Source and Frontend Projects**
-- 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS and Frontend Development**
-- 📫 Reach me at **bahar.vhbii@gmail.com**
+## 👩‍💻 About Me
 
-<br/>
+- 💻 Frontend Developer
+- ⚛️ React & TypeScript
+- 🚀 Learning Next.js
+  <p align="center">
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,git,github,vscode,figma" />
 
-- 🎓 **[Scientific Association Website](https://scsa.ir)** ([repo](https://github.com/Sari-IAU/computer-engineering-community)) — Official website of the university's scientific association, built with React, TypeScript & Vite, deployed on GitHub Pages with a custom domain
-- 🏠 **[Real Estate Platform](https://github.com/next-winter-1404/nova)**  — A real estate listing platform built with Next.js & TypeScript
-- 📚 **[Programming Courses Platform](https://nova-delta-flax.vercel.app/)** ([repo](https://github.com/react-summer-1404/Nova) ) — An online course-selling platform built with React
-
-<br/>
-
-## 📫 Connect with me
-<p align="left">
-<a href="https://t.me/BaharVhbi" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="45"/>
-</a>
-<a href="https://instagram.com/bahar.vhbi" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a
-
-</a>
 </p>
-<br/>
-
-## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github,figma,postman)](https://skillicons.dev)
-
-**Also familiar with**
-- Zustand  
-- TanStack Query  
-- React Router   
-- REST APIs  
-<br/>
-
-## 📊 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AminaEsmaeely&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
+
+</p>
+## 📫 Connect With Me
+
+- GitHub
+- LinkedIn
+- Portfolio (Coming Soon)
+
+---
+
+⭐ Thanks for visiting my profile!
+- 🎨 Passionate about UI/UX
+- ✨ Love creating reusable components
+- 🌱 Always improving my frontend skills
