@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Amina Banner"/>
+  <img src="./assets/download.gif" width="100%" alt="Amina Banner"/>
 </p>
 
 ## 👋 About Me
