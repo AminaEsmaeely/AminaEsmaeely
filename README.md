@@ -86,8 +86,8 @@ A bilingual learning platform with separate student and admin experiences, featu
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AminaEsmaeely&show_icons=true&theme=rose_pine&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaEsmaeely&layout=compact&theme=rose_pine&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AminaEsmaeely&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AminaEsmaeely&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
 
 ---
