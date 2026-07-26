@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Amina Banner"/>
+</p>
 <div align="center">
 
 # Hi, I'm Amina 👋
@@ -85,17 +88,22 @@ A bilingual learning platform with separate student and admin experiences, featu
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AminaEsmaeely&show_icons=true&theme=rose_pine&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AminaEsmaeely&layout=compact&theme=rose_pine&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=AminaEsmaeely&theme=rose-pine&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AminaEsmaeely&theme=github-compact)
 
 ---
 
 ## Connect With Me
 
-<p>
-<a href="www.linkedin.com/in/
-amina-esmaeely">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-F6A6C9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="left">
+
+<a href="https://github.com/AminaEsmaeely">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<a href="https://www.linkedin.com/in/amina-esmaeely">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<a href="mailto:aminasamacreator@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
+</p>
