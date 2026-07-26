@@ -4,14 +4,12 @@
 
 ## 👋 About Me
 
-Hi! I'm Amina, a frontend developer who enjoys turning ideas into clean, responsive, and user-friendly web experiences.
+Hi! I'm Amina, a frontend developer who enjoys turning ideas and UI designs into responsive, interactive, and user-friendly web experiences.
 
-- 💻 Building applications with **React, Next.js, TypeScript, and Tailwind CSS**
-- 🎨 Passionate about crafting polished UI and thoughtful user experiences
-- ⚡ Working with **REST APIs**, **TanStack Query**, and reusable component architecture
-- 🌱 Currently learning frontend architecture, performance optimization, and advanced Next.js patterns
-- 🚀 Always building personal projects to learn by creating
-
+- 💻 Mostly working with React, TypeScript, Next.js, and Tailwind CSS
+- 🎨 I enjoy building clean interfaces and paying attention to small UI details
+- 📚 Currently learning more about frontend architecture and creating reusable components
+- 🚀 Always working on personal projects to improve my skills
 ---
 
 ## 🛠 Tech Stack
