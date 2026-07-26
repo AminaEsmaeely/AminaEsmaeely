@@ -1,109 +1,121 @@
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Amina Banner"/>
 </p>
-<div align="center">
 
-# Hi, I'm Amina 👋
+## 👋 About Me
 
-### Frontend Developer | React | TypeScript | Next.js
+Hi! I'm Amina, a frontend developer who enjoys turning ideas into clean, responsive, and user-friendly web experiences.
 
-I enjoy building responsive interfaces and turning ideas into clean, user-friendly experiences.
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-
-</div>
-
----
-
-## About Me
-
-I'm a frontend developer who enjoys turning UI designs into responsive and interactive web applications.
-
-- 💻 Mostly working with React, TypeScript, Next.js, and Tailwind CSS
-- 🎨 I enjoy building clean interfaces and paying attention to small UI details
-- 📚 Currently learning more about frontend architecture and creating reusable components
-- 🚀 Always working on personal projects to improve my skills
+- 💻 Building applications with **React, Next.js, TypeScript, and Tailwind CSS**
+- 🎨 Passionate about crafting polished UI and thoughtful user experiences
+- ⚡ Working with **REST APIs**, **TanStack Query**, and reusable component architecture
+- 🌱 Currently learning frontend architecture, performance optimization, and advanced Next.js patterns
+- 🚀 Always building personal projects to learn by creating
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github,vscode,figma&perline=6"/>
 </p>
+
 ---
 
-## Featured Projects
+## 🌱 Currently Learning
+
+- Frontend Architecture
+- Performance Optimization
+- Advanced Next.js
+- Design Systems
+
+---
+
+## 🚀 Featured Projects
 
 ### 🏠 Real Estate Platform
 
-A modern real estate platform for browsing and exploring properties with an intuitive and responsive user experience.
+Modern real estate platform focused on responsive design and a smooth property browsing experience.
 
-**Built with**
-
-**Tech Stack**
+#### Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery)
+![REST API](https://img.shields.io/badge/REST_API-4CAF50?style=flat)
 
-**Features**
+#### Features
 
-- 🏘️ Browse and search property listings
-- 🌓 Dark & Light mode
-- 💬 Chat with property owners
+- 🏘️ Property search & filtering
 - 🗺️ Interactive map integration
-- ⚡ Server state management with TanStack Query
-- 🔗 REST API integration
-- 📱 Fully responsive design
+- 💬 Chat with property owners
+- 🌓 Dark & Light mode
+- ⚡ REST API integration
+- 🚀 TanStack Query for server state management
+- 📱 Fully responsive interface
+
+**🔗 Live Demo:** https://...
+
+**📂 Source Code:** https://github.com/AminaEsmaeely/your-real-estate-repo
+
+---
 
 ### 🎓 Online Learning Platform
 
-A bilingual learning platform with separate student and admin experiences, featuring AI-powered tools and real-time communication.
+A bilingual learning platform featuring AI-powered tools, dashboards, and real-time communication.
 
-**Built with**
-
-**Tech Stack**
+#### Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery)
+![REST API](https://img.shields.io/badge/REST_API-4CAF50?style=flat)
 
-**Features**
+#### Features
 
 - 🌍 Bilingual interface
-- 🤖 AI-powered chat assistant
+- 🤖 AI-powered assistant
 - 💬 Real-time chat with admin
-- 🔐 Authentication and role-based access
+- 🔐 Authentication & role-based access
 - 🌓 Dark & Light mode
-- ⚡ Data fetching and caching with TanStack Query
-- 🔗 REST API integration
+- ⚡ REST API integration
+- 🚀 Data fetching and caching with TanStack Query
 - 📱 Responsive dashboard
 
-🔗 **Live Demo:** https://...
-<br/>
-📂 **Source Code:** https://github.com/yourusername/learning-platform
----
+**🔗 Live Demo:** https://...
 
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AminaEsmaeely&theme=rose-pine&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AminaEsmaeely&theme=github-compact)
+**📂 Source Code:** https://github.com/AminaEsmaeely/your-learning-platform-repo
 
 ---
 
-## Connect With Me
+## 📈 GitHub Activity
 
-<p align="left">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AminaEsmaeely&theme=rose-pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminaEsmaeely&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/AminaEsmaeely">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/amina-esmaeely">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:aminasamacreator@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
