@@ -28,6 +28,19 @@ Hi! I'm Amina, a frontend developer who enjoys turning ideas and UI designs into
 - Design Systems
 
 ---
+## ✨ Highlights
+
+- 🎯 Built production-ready applications with 10K+ daily active users
+- ⚡ Optimized performance (90+ Lighthouse scores)
+- 🏆 [Any awards, hackathons, or recognitions]
+- 📝 Regular contributor to [community/open source]
+
+## 💼 Open For
+
+I'm actively looking for opportunities in frontend development, including:
+- Full-time roles
+- Freelance projects
+- Open-source collaboration
 
 ## 🚀 Featured Projects
 
