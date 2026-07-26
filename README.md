@@ -53,9 +53,7 @@ Modern real estate platform focused on responsive design and a smooth property b
 - 🚀 TanStack Query for server state management
 - 📱 Fully responsive interface
 
-**🔗 Live Demo:** https://...
-
-**📂 Source Code:** https://github.com/AminaEsmaeely/your-real-estate-repo
+**📂 Source Code:** https://github.com/next-winter-1404/nova
 
 ---
 
@@ -82,9 +80,9 @@ A bilingual learning platform featuring AI-powered tools, dashboards, and real-t
 - 🚀 Data fetching and caching with TanStack Query
 - 📱 Responsive dashboard
 
-**🔗 Live Demo:** https://...
+**🔗 Live Demo:**  Programming Courses Platform https://nova-delta-flax.vercel.app/
 
-**📂 Source Code:** https://github.com/AminaEsmaeely/your-learning-platform-repo
+**📂 Source Code:** ** https://github.com/react-summer-1404/Nova
 
 ---
 
