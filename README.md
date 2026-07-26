@@ -77,7 +77,6 @@ A bilingual learning platform featuring AI-powered tools, dashboards, and real-t
 #### Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery)
 ![REST API](https://img.shields.io/badge/REST_API-4CAF50?style=flat)
